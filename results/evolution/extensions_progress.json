@@ -1,0 +1,23 @@
+{
+  "sequential": {
+    "n_chains": 36,
+    "n_versions": 1440,
+    "n_method_evaluations": 4320,
+    "seed": 2026110101,
+    "elapsed_s": 6.232270351000011,
+    "semantics": "Unconditional analysis chains, NOT autonomous deployment/acceptance; carried final positive iterate reused without oracle refresh"
+  },
+  "topology": {
+    "n_cases": 216,
+    "seed": 2026110102,
+    "elapsed_s": 46.86672810599998,
+    "scope": "Structured two-population architecture retained; sparse support preserves an alternating Hamiltonian cycle; 10% scope scales receiving rows per population; density=nonzeros/(2p^2)"
+  },
+  "profile": {
+    "n_cases": 81,
+    "seed": 2026110103,
+    "repeats": 11,
+    "elapsed_s": 1.7363162139999986,
+    "scope": "Instrumented partition times reported separately from uninstrumented full screen timings; derived hybrid is an additive cost accounting, not an independent timer"
+  }
+}

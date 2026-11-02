@@ -1,0 +1,26 @@
+sequential 0.005 24 dense chains 3 elapsed 0.37717594299999746
+sequential 0.005 24 sparse chains 6 elapsed 0.8290102910000314
+sequential 0.005 24 skewed chains 9 elapsed 1.1852558120000367
+sequential 0.005 96 dense chains 12 elapsed 2.012323164999998
+sequential 0.005 96 sparse chains 15 elapsed 2.9907848909999757
+sequential 0.005 96 skewed chains 18 elapsed 3.874215360999983
+sequential 0.125 24 dense chains 21 elapsed 4.01692363899997
+sequential 0.125 24 sparse chains 24 elapsed 4.185729833999972
+sequential 0.125 24 skewed chains 27 elapsed 4.344808497000031
+sequential 0.125 96 dense chains 30 elapsed 4.985978351999961
+sequential 0.125 96 sparse chains 33 elapsed 5.559763374999989
+sequential 0.125 96 skewed chains 36 elapsed 6.200582693000001
+topology 96 dense cases 18 elapsed 0.16887892200008991
+topology 96 sparse cases 36 elapsed 0.3536015420000922
+topology 96 skewed cases 54 elapsed 0.5272313080000686
+topology 192 dense cases 72 elapsed 0.9810689309999816
+topology 192 sparse cases 90 elapsed 1.4429563910000525
+topology 192 skewed cases 108 elapsed 1.888575557000081
+topology 384 dense cases 126 elapsed 3.830577430000062
+topology 384 sparse cases 144 elapsed 5.687340939000023
+topology 384 skewed cases 162 elapsed 7.555636639999989
+topology 768 dense cases 180 elapsed 20.862944334000076
+topology 768 sparse cases 198 elapsed 33.04389045700009
+topology 768 skewed cases 216 elapsed 45.673399963000065
+profile 81 elapsed 1.7363046970000369
+ALL NONNUMERICAL STAGES COMPLETE

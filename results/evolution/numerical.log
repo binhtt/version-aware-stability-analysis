@@ -1,0 +1,19 @@
+numeric 0.005 6 dense cases 9 elapsed 0.3698142360000247
+numeric 0.005 6 sparse cases 18 elapsed 0.8427301240000133
+numeric 0.005 6 skewed cases 27 elapsed 1.2970490160000736
+numeric 0.005 12 dense cases 36 elapsed 4.010934958000007
+numeric 0.005 12 sparse cases 45 elapsed 6.915290273999972
+numeric 0.005 12 skewed cases 54 elapsed 8.704364843000008
+numeric 0.005 24 dense cases 63 elapsed 27.376230562000046
+numeric 0.005 24 sparse cases 72 elapsed 47.490173356000014
+numeric 0.005 24 skewed cases 81 elapsed 65.7783025
+numeric 0.125 6 dense cases 90 elapsed 66.08599041100001
+numeric 0.125 6 sparse cases 99 elapsed 66.46888056299997
+numeric 0.125 6 skewed cases 108 elapsed 66.81676214100003
+numeric 0.125 12 dense cases 117 elapsed 69.29811462999999
+numeric 0.125 12 sparse cases 126 elapsed 71.714293656
+numeric 0.125 12 skewed cases 135 elapsed 73.720484769
+numeric 0.125 24 dense cases 144 elapsed 90.23732616200004
+numeric 0.125 24 sparse cases 153 elapsed 107.14377421000006
+numeric 0.125 24 skewed cases 162 elapsed 124.31391147199997
+NUMERICAL AUDIT COMPLETE 162 24 elapsed 124.52771149299997

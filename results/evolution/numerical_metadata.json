@@ -1,0 +1,8 @@
+{
+  "n_boundary_cases": 162,
+  "n_guard_evaluations": 810,
+  "n_cache_interval_cases": 24,
+  "elapsed_s": 124.527537306,
+  "mpmath": "1.4.1",
+  "default_guard_mismatches": 0
+}

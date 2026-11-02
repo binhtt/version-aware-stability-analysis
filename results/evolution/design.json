@@ -1,0 +1,61 @@
+{
+  "sequential": {
+    "sizes": [
+      24,
+      96
+    ],
+    "h": [
+      0.005,
+      0.125
+    ],
+    "topologies": [
+      "dense",
+      "sparse",
+      "skewed"
+    ],
+    "chains_per_cell": 3,
+    "updates_per_chain": 40
+  },
+  "topology": {
+    "sizes": [
+      96,
+      192,
+      384,
+      768
+    ],
+    "topologies": [
+      "dense",
+      "sparse",
+      "skewed"
+    ],
+    "reps": 3,
+    "scopes": [
+      "one_row",
+      "ten_percent"
+    ],
+    "kinds": [
+      "weight",
+      "joint",
+      "loss"
+    ]
+  },
+  "profile": {
+    "sizes": [
+      24,
+      96,
+      192
+    ],
+    "reps": 3,
+    "regimes": [
+      "far",
+      "near",
+      "critical"
+    ],
+    "kinds": [
+      "weight",
+      "joint",
+      "order"
+    ],
+    "timing_repeats": 11
+  }
+}
